@@ -66,3 +66,7 @@ console.log(5 == '5'); // true юо превіряє тільки вміст
 // || or
 
 console.log(2+2*2 == 6);
+
+
+// git init in terminal to add git to project
+
